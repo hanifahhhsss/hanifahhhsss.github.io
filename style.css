@@ -1,6 +1,7 @@
 h1{background-color: #004d4d}
 h1{color:#ffffff}
 h1{text-align: center}
+body{background-image:url(background2.jpg);}
 body{align-items: center;text-align: center;font-family: 'georgia'}
 body{color:#ffffff}
 th,td,tr{background-color:black;color: white}
